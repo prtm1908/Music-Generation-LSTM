@@ -6,11 +6,11 @@ AI-generated music has gained immense popularity due to its ability to produce u
 
 ## Key Features:
 
-### **LSTM Architecture**: The core of this project lies in the LSTM neural network architecture. LSTMs are chosen for their capability to capture long-range dependencies and patterns within sequential data, which aligns perfectly with the structure of musical compositions.
+LSTM Architecture: The core of this project lies in the LSTM neural network architecture. LSTMs are chosen for their capability to capture long-range dependencies and patterns within sequential data, which aligns perfectly with the structure of musical compositions.
 
-### **MIDI Integration**: The repository includes functionalities to process MIDI files, which are commonly used for representing musical data. MIDI files are parsed, preprocessed, and used as input for the LSTM model.
+MIDI Integration: The repository includes functionalities to process MIDI files, which are commonly used for representing musical data. MIDI files are parsed, preprocessed, and used as input for the LSTM model.
 
-### **Music Generation**: Once the model is trained, you can generate new music by providing an initial seed sequence. The LSTM network will then predict subsequent notes based on the learned patterns, resulting in the creation of original and coherent musical pieces.
+Music Generation: Once the model is trained, you can generate new music by providing an initial seed sequence. The LSTM network will then predict subsequent notes based on the learned patterns, resulting in the creation of original and coherent musical pieces.
 
 ## Getting Started:
 

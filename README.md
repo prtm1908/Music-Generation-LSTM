@@ -12,18 +12,24 @@ MIDI Integration: The repository includes functionalities to process MIDI files,
 
 Music Generation: Once the model is trained, you can generate new music by providing an initial seed sequence. The LSTM network will then predict subsequent notes based on the learned patterns, resulting in the creation of original and coherent musical pieces.
 
-## Getting Started:
+## Installation
 
-To start using this repository, follow these steps:
+To run this project locally, follow these steps:
 
-Clone the repository to your local machine.
-Prepare your MIDI dataset or use the provided sample dataset.
-Install the required dependencies listed in the requirements.txt file.
-Use the provided notebook to preprocess the MIDI data and train the LSTM model.
-Generate your own AI-generated music using the trained model.
-Contributions:
+1. **Clone** the repository:
 
-Contributions to this repository are welcome! Whether you want to improve the model's architecture, add new features, or enhance the documentation, feel free to submit pull requests.
+    ```bash
+    git clone https://github.com/prtm1908/AI-Music-Generation-Using-LSTM.git
+    cd AI-Music-Generation-Using-LSTM
+    ```
+
+2. **Setup** the environment:
+
+    ```bash
+    pip install -r requirements.txt
+    ```
+
+3. **Data Preparation**: Prepare your MIDI dataset or use the provided sample dataset and use the provided notebook to preprocess the MIDI data and train the LSTM model
 
 ## Disclaimer:
 

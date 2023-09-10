@@ -19,8 +19,7 @@ To run this project locally, follow these steps:
 1. **Clone** the repository:
 
     ```bash
-    git clone https://github.com/prtm1908/AI-Music-Generation-Using-LSTM.git
-    cd AI-Music-Generation-Using-LSTM
+    git clone https://github.com/prtm1908/Music-Generation-LSTM.git
     ```
 
 2. **Setup** the environment:

@@ -1,4 +1,4 @@
-# AI-Music-Generation-Using-LSTM
+# Music-Generation-LSTM
 Welcome to the AI Music Generation using LSTM GitHub repository! This project focuses on creating a powerful and creative artificial intelligence model that generates music using Long Short-Term Memory (LSTM) networks.
 
 ## Overview:
